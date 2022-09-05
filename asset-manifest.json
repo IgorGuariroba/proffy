@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12949aa5.css",
+    "main.js": "/static/js/main.f269e049.js",
+    "static/media/landing.svg": "/static/media/landing.09c35b9ff95b780ab3adf33aa057eba8.svg",
+    "static/media/logo.svg": "/static/media/logo.378f1127d583e4efaf9a2e25b85e48e5.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.a70fb4cac8a9e7241fe9029984d10ead.svg",
+    "index.html": "/index.html",
+    "static/media/study.svg": "/static/media/study.6de63daeb85ec657923a16a246e74189.svg",
+    "static/media/give-classes.svg": "/static/media/give-classes.c4f665994be1eaf5e946c0935c2ea152.svg",
+    "static/media/back.svg": "/static/media/back.7519e694212a79218bc1c5e6781046c1.svg",
+    "static/media/purple-heart.svg": "/static/media/purple-heart.cf1a5ee21f1a12250f6b7bbc8989ae50.svg",
+    "main.12949aa5.css.map": "/static/css/main.12949aa5.css.map",
+    "main.f269e049.js.map": "/static/js/main.f269e049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12949aa5.css",
+    "static/js/main.f269e049.js"
+  ]
+}
