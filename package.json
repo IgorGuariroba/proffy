@@ -1,7 +1,7 @@
 {
   "name": "proffy",
   "version": "0.1.0",
-  "homepage": "proffy/",
+  "homepage": "github-page/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
