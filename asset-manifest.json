@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proffy/static/css/main.12949aa5.css",
-    "main.js": "/proffy/static/js/main.cee30128.js",
+    "main.js": "/proffy/static/js/main.91b5d73d.js",
     "static/media/landing.svg": "/proffy/static/media/landing.09c35b9ff95b780ab3adf33aa057eba8.svg",
     "static/media/logo.svg": "/proffy/static/media/logo.378f1127d583e4efaf9a2e25b85e48e5.svg",
     "static/media/whatsapp.svg": "/proffy/static/media/whatsapp.a70fb4cac8a9e7241fe9029984d10ead.svg",
@@ -11,10 +11,10 @@
     "static/media/back.svg": "/proffy/static/media/back.7519e694212a79218bc1c5e6781046c1.svg",
     "static/media/purple-heart.svg": "/proffy/static/media/purple-heart.cf1a5ee21f1a12250f6b7bbc8989ae50.svg",
     "main.12949aa5.css.map": "/proffy/static/css/main.12949aa5.css.map",
-    "main.cee30128.js.map": "/proffy/static/js/main.cee30128.js.map"
+    "main.91b5d73d.js.map": "/proffy/static/js/main.91b5d73d.js.map"
   },
   "entrypoints": [
     "static/css/main.12949aa5.css",
-    "static/js/main.cee30128.js"
+    "static/js/main.91b5d73d.js"
   ]
 }
