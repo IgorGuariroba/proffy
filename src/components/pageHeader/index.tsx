@@ -17,7 +17,7 @@ const  PageHeader: React.FC<PageHeaderProps> = (props) => {
   return (
     <header className="page-header">
     <div className="tob-bar-container">
-      <Link to="/">
+      <Link to="/proffy">
         <img src={backIcon} alt="Voltar" />
       </Link>
       <img src={logoImg} alt="Proffy" />
