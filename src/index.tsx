@@ -12,6 +12,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path='/' element={<Landing/>}/>
+      <Route path='/proffy' element={<Landing/>}/>
       <Route path='/study' element={<TeacherList/>} />
       <Route path='/give-classes' element={<TeacherForm/>} />
       <Route
