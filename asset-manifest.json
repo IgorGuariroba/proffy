@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/proffy/static/css/main.12949aa5.css",
-    "main.js": "/proffy/static/js/main.67c57184.js",
+    "main.css": "/proffy/static/css/main.52519d7e.css",
+    "main.js": "/proffy/static/js/main.94c1cf08.js",
     "static/media/landing.svg": "/proffy/static/media/landing.09c35b9ff95b780ab3adf33aa057eba8.svg",
     "static/media/logo.svg": "/proffy/static/media/logo.378f1127d583e4efaf9a2e25b85e48e5.svg",
     "static/media/whatsapp.svg": "/proffy/static/media/whatsapp.a70fb4cac8a9e7241fe9029984d10ead.svg",
     "index.html": "/proffy/index.html",
+    "static/media/warning.svg": "/proffy/static/media/warning.2eb383a14a6cb9886e6b61c77f1b8ce6.svg",
     "static/media/study.svg": "/proffy/static/media/study.6de63daeb85ec657923a16a246e74189.svg",
     "static/media/give-classes.svg": "/proffy/static/media/give-classes.c4f665994be1eaf5e946c0935c2ea152.svg",
     "static/media/back.svg": "/proffy/static/media/back.7519e694212a79218bc1c5e6781046c1.svg",
     "static/media/purple-heart.svg": "/proffy/static/media/purple-heart.cf1a5ee21f1a12250f6b7bbc8989ae50.svg",
-    "main.12949aa5.css.map": "/proffy/static/css/main.12949aa5.css.map",
-    "main.67c57184.js.map": "/proffy/static/js/main.67c57184.js.map"
+    "main.52519d7e.css.map": "/proffy/static/css/main.52519d7e.css.map",
+    "main.94c1cf08.js.map": "/proffy/static/js/main.94c1cf08.js.map"
   },
   "entrypoints": [
-    "static/css/main.12949aa5.css",
-    "static/js/main.67c57184.js"
+    "static/css/main.52519d7e.css",
+    "static/js/main.94c1cf08.js"
   ]
 }
