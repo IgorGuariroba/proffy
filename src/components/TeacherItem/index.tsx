@@ -2,32 +2,44 @@ import React from "react";
 import whatsappIcon from '../../assets/images/icons/whatsapp.svg'
 import './styles.css';
 
-function TeacherItem() {
+export interface Teacher {
+  id: number,
+  subject: string,
+  cost: number,
+  name: string,
+  avatar: string,
+  whatsapp: string,
+  bio: string
+}
+
+interface TeacherItemProps {
+  teacher: Teacher
+}
+
+const TeacherItem: React.FC<TeacherItemProps> = ({ teacher }) => {
   return (
     <article className="teacher-item">
-          <header>
-            <img src="https://avatars.githubusercontent.com/u/65466371?v=4" alt="Igor Guariroba" />
-            <div>
-              <strong>Igor Ravel Guariroba</strong>
-              <span>Arquitetura de Software</span>
-            </div>
-          </header>
-          <p>
-            Entusiasta das melhores tecnologias de software.
-            <br />
-            Apaixonado por performace e design de software em linguagens multiparadigma, mais 1 milhão de alunos formados e atuando no mercado de trabalho levando performace e inovação para os seus clientes.
-          </p>
-          <footer>
-            <p>
-              Preço/hora 
-              <strong>R$ 180,00</strong>
-            </p>
-            <button type="button">
-              <img src={whatsappIcon} alt="Whatsapp" />
-              Entrar em contato
-            </button>
-          </footer>
-        </article>
+      <header>
+        <img src={teacher.avatar} alt={teacher.name} />
+        <div>
+          <strong>{teacher.name}</strong>
+          <span>{teacher.subject}</span>
+        </div>
+      </header>
+      <p>
+        {teacher.bio}
+      </p>
+      <footer>
+        <p>
+          Preço/hora
+          <strong>R$ {teacher.cost}</strong>
+        </p>
+        <button type="button">
+          <img src={whatsappIcon} alt="Whatsapp" />
+          Entrar em contato
+        </button>
+      </footer>
+    </article>
   );
 }
 
